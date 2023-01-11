@@ -1,0 +1,3 @@
+A decentralized meme currency is a type of digital currency that is not controlled by any central authority or organization, and is often created as a way to make a social or political statement. They typically rely on blockchain technology to enable peer-to-peer transactions without the need for intermediaries.
+
+One example of a decentralized meme currency is Dogecoin. It was created in 2013 as a humorous take on the idea of a digital currency, and its logo features the Shiba Inu dog from the "Doge" internet meme. Despite its origins as a joke, Dogecoin quickly gained a dedicated following and has become one of the most valuable and widely-traded cryptocurrencies in the world.
